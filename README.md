@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**My Skills**
+**Things that I know:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,powershell,bash,vscode,windows,yarn)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,powershell,bash,vscode,windows,yarn)
