@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello there!
 
 <!--
-**DBDev-git/DBDev-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DBDev-IT/DBDev-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**My Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,powershell,bash,vscode,windows,yarn)](https://skillicons.dev)
