@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 
 ### My stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=DBDev-IT&show_icons=true&custom_title=My%20stats)
-
-### Total README views:
-![views](https://vbr.nathanchung.dev/badge?page_id=DBDev-IT-readme-visitors&style=for-the-badge&logo=GitHub&lcolor=040313&color=60abee&text=Views)
