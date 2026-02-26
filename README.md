@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Things that I know:
 
-![icons](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,powershell,bash,vscode,windows,yarn)
+![icons](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,express,powershell,bash,vscode,windows,yarn)
 
 ### My stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=DBDev-IT&show_icons=true&custom_title=My%20stats)
