@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ![icons](https://skillicons.dev/icons?i=js,nodejs,html,css,py,md,npm,react,express,powershell,bash,vscode,windows,yarn)
 
 ### My stats:
-![stats](https://github-readme-stats.vercel.app/api?username=DBDev-IT&show_icons=true&custom_title=My%20stats)
+![stats](https://github-readme-stats-fast.vercel.app/api?username=DBDev-IT&show_icons=true&theme=github_dark)
+![stats2](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DBDev-IT&theme=github_dark)
