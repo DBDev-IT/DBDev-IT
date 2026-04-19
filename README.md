@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 *I contributed to **platform-giant** with **~450 000 000** active users every day - [Playgama](https://playgama.com). I wrote **Playgama Bridge SDK extension-plugin** on Node.js (JavaScript) to add **block-based programming language support**, with that, **everyone**, yes, everyone can make game and publish it on [Playgama](https://playgama.com) without a single line of code.*
 
-*I created [Dash](https://dashblocks.github.io) - **completely free**, **block-based** programming language - we develop it in a small team: ~6 young ~12-16 y.o. programmers*
+*I created [Dash](https://dashblocks.github.io) - **completely free**, **block-based** programming language - we develop it in a small team: ~6 young ~12-16 y.o. programmers. Source code available on [Github](https://github.com/DashBlocks).*
 
 ### My stats:
 ![stats](https://github-readme-stats-fast.vercel.app/api?username=DBDev-IT&show_icons=true&theme=github_dark)
