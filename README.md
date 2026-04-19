@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ## How To Reach Me?
 > *Email* - **[damir.b.dbdev@outlook.com](mailto:damir.b.dbdev@outlook.com)**
 
-> *Telegram* - **[@DBDev_IT](https://t,me/DBDev_IT)**
+> *Telegram* - **[@DBDev_IT](https://t.me/DBDev_IT)**
 
-> *Discord* - **[@doodyboody_hi](https://discord.com/doodyboody_hi)**
+> *Discord* - **[@doodyboody_hi](https://discord.com/users/1431546319922663516)**
