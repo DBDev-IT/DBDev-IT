@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![stats](https://github-readme-stats-fast.vercel.app/api?username=DBDev-IT&show_icons=true&theme=github_dark)
 
 ## How To Reach Me?
-> *Email* - **[damir.b.dbdev@outlook.com](mailto://damir.b.dbdev@outlook.com)**
+> *Email* - **[damir.b.dbdev@outlook.com](mailto:damir.b.dbdev@outlook.com)**
 
 > *Telegram* - **[@DBDev_IT](https://t,me/DBDev_IT)**
 
