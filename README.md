@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 ### My stats:
 ![stats](https://github-readme-stats-fast.vercel.app/api?username=DBDev-IT&show_icons=true&theme=github_dark)
 
+![stats2](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=DBDev-IT&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
+
 ## How To Reach Me?
 > *Email* - **[damir.b.dbdev@outlook.com](mailto:damir.b.dbdev@outlook.com)**
 
